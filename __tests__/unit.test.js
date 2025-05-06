@@ -86,7 +86,7 @@ test('valid date: 13/13/13', () => {
 });
 
 /**
- * Test for hex color:
+ * Test for valid hex color:
  * 
  * NEED: 2 true and 2 false
  */
